@@ -5,13 +5,13 @@ This project showcases synchronized data visualizations using different types wi
 ## Features
 
 - **Scatterplot Matrix**: Visualizes pairwise relationships between multiple variables.
-  ![Scatterplot Matrix](path/to/scatterplot_matrix.png)
+  ![Scatterplot Matrix](scatterplot_matrix.png)
 
 - **Parallel Coordinates**: Displays multi-dimensional data by drawing a line for each data point across multiple parallel axes.
-  ![Parallel Coordinates](path/to/parallel_coordinates.png)
+  ![Parallel Coordinates](parallel_coordinates.png)
 
 - **Histogram and Density Curve**: Allows you to select a specific dimension to visualize, adjust the number of bars, or modify the Gaussian kernel width for the density curve.
-  ![Histogram and Density Curve](path/to/histogram_density_curve.png)
+  ![Histogram and Density Curve](histogram_density_curve.png)
 
 ## Usage
 
